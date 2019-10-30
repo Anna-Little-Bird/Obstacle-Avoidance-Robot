@@ -1,6 +1,6 @@
 # Obstacle Avoiding Robot
 
-![obstacle avoiding robot](https://github.com/Anna-Little-Bird/Obstacle-Avoiding-Robot/blob/master/Photos/1.jpg)
+![obstacle avoiding robot](https://github.com/Anna-Little-Bird/Obstacle-Avoiding-Robot/blob/master/Photos/1_small.jpg)
 
 The goal of this project is to design the autonomous robot which will be able to perform the following tasks:
 -	navigate itself;
