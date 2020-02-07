@@ -8,7 +8,7 @@ The goal of this project is to design the autonomous robot which will be able to
 -	display states of the systems on a LCD display;
 -	minimal size and cost.
 
-The core of the project is PIC18F25K22 microcontroller. For navigation task two ultrasonic sensors HC-SR04 were used. The moving part aws presented by 2 wheel chassis which was operated by PIC AXE408 motor shield.
+The core of the project is PIC18F25K22 microcontroller. For navigation task two ultrasonic sensors HC-SR04 were used. The moving part was presented by 2 wheel chassis which was operated by PIC AXE408 motor shield.
 
 To fulfil the requirements the following state diagram was designed:
 ![state diagram](https://github.com/Anna-Little-Bird/Obstacle-Avoiding-Robot/blob/master/Photos/State%20Diagram.jpg)
